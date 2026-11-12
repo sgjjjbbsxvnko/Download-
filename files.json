@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "id": "sent-tweaks-v3",
+    "name": "Sent Tweaks V3",
+    "description": "Sent Tweaks V3 dành cho Android. Tải APK và truy cập trang lấy key.",
+    "platform": "Android",
+    "version": "V3",
+    "featured": true,
+    "url": "https://www.mediafire.com/file/mis3l86zvldcoi6/Sent_Tweaks_V3.apk/file"
+  }
+]
